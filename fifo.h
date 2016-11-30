@@ -5,6 +5,8 @@
 #ifndef FIFO_BUFFER_H
 #define FIFO_BUFFER_H
 
+#include "packet.h"
+
 /*
  * FIFO buffer
  */

@@ -5,10 +5,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "packet.c"
-#include "fes.c"
-#include "fifo.c"
-#include "rng.c"
+#include "fifo.h"
+#include "fes.h"
+#include "rng.h"
 
 #define FILENAMELENGTH 512
 //#define DEBUG
